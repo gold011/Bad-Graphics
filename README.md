@@ -4,10 +4,10 @@ A Mod For Gorilla Tag That Makes Your Game Look Terrible!
 
 #INFO
 ----------------
-makes your game look like a windows 95 screensaver
-i made this in a couple of minutes :D
-only works in modded lobbies
-theres a bug where u cant disable (fixing soon)
+makes your game look like a windows 95 screensaver\n
+i made this in a couple of minutes :D\n
+only works in modded lobbies\n
+theres a bug where u cant disable (fixing soon)\n
 
 #DISCLAIMER
 -----------------
